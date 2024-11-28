@@ -1,0 +1,8 @@
+python - 3.12.4
+# Notebook made in VSCode using Jupyter Extension
+
+pandas -  2.2.3
+numpy - 1.26.4
+seaborn - 0.13.2
+matplot - 3.9.0
+scikit-learn - 1.5.2  
